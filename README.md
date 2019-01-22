@@ -4,7 +4,7 @@
 
 Libary to detect browser + version according to its agent
 
-__Note:__ This is rewritten version of the [original](https://github.com/micschwarz/browserdetect) in dart (for learning purpose)
+__Note:__ This is rewritten version of the [original](https://github.com/micschwarz/browserdetect) in dart (for learning purpose) with lesser features
 
 
 ### Check compatibility
