@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'Browser.dart';
+import '../Browser.dart';
 
 void main() {
   print(window.navigator.userAgent);
